@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:textSize="30dip"
-        android:text="Unknown"/>
+        android:text=" "/>
     <Button
         android:id="@+id/button_copy"
         android:layout_height="wrap_content"
@@ -46,7 +46,14 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="@string/introduction_password"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/introduction_code"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:text="内部测试版本"/>
     
-
 </LinearLayout>

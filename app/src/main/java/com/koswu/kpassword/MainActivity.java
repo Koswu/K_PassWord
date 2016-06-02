@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity
                     }
                     else
                     {
-                        textview_created_password.setText("Unknown");
+                        Toast.makeText(MainActivity.this,R.string.cant_create,Toast.LENGTH_SHORT).show();
                     }
                 }
                 
@@ -71,9 +71,14 @@ public class MainActivity extends AppCompatActivity
                 public void onClick(View p1)
                 {
                     // TODO: Implement this method
+                    if (TextUtils.isEmpty(created_password))
+                    {
+                        Toast.makeText(MainActivity.this,R.string.cant_copy,Toast.LENGTH_SHORT).show();
+                        return;
+                    }
                     ClipboardManager clipboard = (ClipboardManager)getSystemService(Context.CLIPBOARD_SERVICE);
                     clipboard.setText(created_password.trim());
-                    Toast.makeText(MainActivity.this,"已复制，酷爱拿去用吧",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this,R.string.copy_ok,Toast.LENGTH_SHORT).show();
                 }
                 
             

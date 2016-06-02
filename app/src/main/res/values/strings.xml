@@ -9,6 +9,10 @@
     <string name="diff_code">区分代号</string>
     <string name="input_your_code">输入你的区分代号</string>
     <string name="password_create_area">密码生成区</string>
-    
+    <string name="introduction_password">记忆密码:能让你容易记住的密码，用于生成复杂密码</string>
+    <string name="introduction_code">区分代号:使用不同的代号来区别不同用处的密码，如"QQ","淘宝","Taobao","Github"等</string>
+    <string name="copy_ok">复制成功！酷爱拿去用吧！"</string>
+    <string name="cant_create">缺少记忆密码或区分代号，无法生成</string>
+    <string name="cant_copy">什么都没有生成啊</string>
 
 </resources>
