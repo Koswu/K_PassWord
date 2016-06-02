@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">K密罐</string>
+    <string name="create">生成</string>
+    <string name="copy">复制</string>
+    <string name="memory_password">记忆密码</string>
+    <string name="input_your_password">输入你的记忆密码</string>
+    <string name="diff_code">区分代号</string>
+    <string name="input_your_code">输入你的区分代号</string>
+    <string name="password_create_area">密码生成区</string>
+    
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/memory_password"/>
+    <EditText
+        android:id="@+id/edittext_input_password"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="@string/input_your_password"
+        android:inputType="textPassword"/>
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/diff_code"/>
+    <EditText
+        android:id="@+id/edittext_input_code"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="@string/input_your_code"/>
+    <Button
+        android:id="@+id/button_create"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/create"/>
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/password_create_area"/>
+    <TextView
+        android:id="@+id/textview_password"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="30dip"
+        android:text="Unknown"/>
+    <Button
+        android:id="@+id/button_copy"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/copy"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="内部测试版本"/>
+    
+
+</LinearLayout>
