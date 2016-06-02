@@ -12,6 +12,7 @@
         android:id="@+id/edittext_input_password"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
+        android:maxLines="1"
         android:hint="@string/input_your_password"
         android:inputType="textPassword"/>
     <TextView
@@ -22,6 +23,7 @@
         android:id="@+id/edittext_input_code"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
+        android:maxLines="1"
         android:hint="@string/input_your_code"/>
     <Button
         android:id="@+id/button_create"
@@ -36,7 +38,7 @@
         android:id="@+id/textview_password"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
-        android:textSize="30dip"
+        android:textSize="65px"
         android:text=" "/>
     <Button
         android:id="@+id/button_copy"
@@ -54,6 +56,6 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="内部测试版本"/>
+        android:text="测试版本"/>
     
 </LinearLayout>
