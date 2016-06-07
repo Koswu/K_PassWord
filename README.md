@@ -13,7 +13,8 @@ K密罐尝试对已有的密码管理软件进行改进，并不使用密码保�
 目前已经支持的客户端:
 * [Android客户端](https://github.com/Koswu/K_PassWord/releases)
 * [JS版网页客户端](http://koswu.github.io/K_PassWord_JS/)
-***************************************
+
+****************************************
 项目开源地址:
 * [Android客户端](https://github.com/Koswu/K_PassWord)
 * [网页客户端](https://github.com/Koswu/K_PassWord_JS)
