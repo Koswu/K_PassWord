@@ -27,7 +27,7 @@ public class PassWord
         head_char=='-'||
         Character.isDigit(head_char))
         {
-            len16_string=transformd_string.substring(transformd_string_lenth-17,transformd_string_lenth-1);
+            len16_string=transformd_string.substring(transformd_string_lenth-16,transformd_string_lenth);
             head_char=len16_string.charAt(0);
             if (head_char=='_'||
             head_char=='-'||
