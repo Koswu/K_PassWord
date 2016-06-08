@@ -5,8 +5,8 @@
         <item name="colorPrimary">@color/blue_500</item>
         <item name="colorPrimaryDark">@color/blue_700</item>
         <item name="colorAccent">@color/pink_A200</item>
-        <item name="colorControlHighlight">@color/pink_700</item>
-        <item name="colorButtonNormal">@color/pink_500</item>
+        <item name="colorControlHighlight">@color/red_800</item>
+        <item name="colorButtonNormal">@color/red_600</item>
         
     </style>
 

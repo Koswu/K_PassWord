@@ -14,5 +14,10 @@
     <string name="copy_ok">复制成功！酷爱拿去用吧！"</string>
     <string name="cant_create">缺少记忆密码或区分代号，无法生成</string>
     <string name="cant_copy">什么都没有生成啊</string>
+    <string name="about">关于</string>
+    <string name="about_message">一款基于HmacSHA256的密码管理\n作者:KosWu</string>
+    <string name="goto_webpage_version">访问网页版</string>
+    <string name="goto_project_page">访问项目地址</string>
+    <string name="ok">确认</string>
 
 </resources>
