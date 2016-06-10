@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KPassword</string>
+    <string name="create">Create</string>
+    <string name="copy">Copy</string>
+    <string name="memory_password">Memory password</string>
+    <string name="input_your_password">Input your memory password</string>
+    <string name="diff_code">Diffcode</string>
+    <string name="input_your_code">Input your diffcode</string>
+    <string name="password_create_area">Password create area</string>
+    <string name="introduction_password"> </string>
+    <string name="introduction_code"> </string>
+    <string name="copy_ok">Copy complete</string>
+    <string name="cant_create">Can\'t create without password and diffcode</string>
+    <string name="cant_copy">Nothing to Created</string>
+    <string name="about">About</string>
+    <string name="about_message">A password manager based HmacSHA256\nAuthor:KosWu</string>
+    <string name="goto_webpage_version">Webpage version</string>
+    <string name="goto_project_page">Project site</string>
+    <string name="ok">OK</string>
+
+</resources>
