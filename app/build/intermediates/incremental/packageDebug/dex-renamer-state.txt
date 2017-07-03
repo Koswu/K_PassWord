@@ -1,0 +1,7 @@
+#Mon Jul 03 16:30:51 CST 2017
+base.0=C\:\\Users\\kos\\Documents\\GitHub\\K_PassWord\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b361f457efb3b70ece9e5e252b3e36d5c2eee128
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\kos\\Documents\\GitHub\\K_PassWord\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_823b38f3d1e9a45c223fd3fe6a08bb23517ae49e\\classes.dex
+base.1=C\:\\Users\\kos\\Documents\\GitHub\\K_PassWord\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_823b38f3d1e9a45c223fd3fe6a08bb23517ae49e
+file.0=C\:\\Users\\kos\\Documents\\GitHub\\K_PassWord\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b361f457efb3b70ece9e5e252b3e36d5c2eee128\\classes.dex

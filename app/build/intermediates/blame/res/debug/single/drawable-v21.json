@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\kos\\Documents\\GitHub\\K_PassWord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\c5fb9bbafc1c5764109fd9a2daaa198c326ef083\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\kos\\Documents\\GitHub\\K_PassWord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\c5fb9bbafc1c5764109fd9a2daaa198c326ef083\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\kos\\Documents\\GitHub\\K_PassWord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Android\\.android\\build-cache\\c5fb9bbafc1c5764109fd9a2daaa198c326ef083\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kos\\Documents\\GitHub\\K_PassWord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\c5fb9bbafc1c5764109fd9a2daaa198c326ef083\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

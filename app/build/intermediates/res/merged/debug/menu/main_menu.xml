@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_goto_web_version"
+        android:title="@string/goto_webpage_version"/>
+    <item
+        android:id="@+id/item_goto_project_page"
+        android:title="@string/goto_project_page"/>
+    <item
+        android:id="@+id/item_about"
+        android:title="@string/about"/>
+    
+</menu>

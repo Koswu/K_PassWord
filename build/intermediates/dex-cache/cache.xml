@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_6e7724aaecb0cf1a72548a0803d3efb000e2120b.jar" />
+    </item>
+    <item
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_6f110a2967a153487b613aa709cd94149e808bea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_823b38f3d1e9a45c223fd3fe6a08bb23517ae49e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\7b9cace540bd897c318bf924d3e2374e5a261524\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5960fabbd0da2589b3de2ee02ecae15817c7b851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\b9b8f22319998991edf8ba8ec66230044e546bf2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_369afe0c97171943d7ab3a0a723a5ce1c9204f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c8f1fba642e01bd6c6e1d534f23caf2146d6dea3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca89024a9cc5dd05de6afe710bce503eed90e7c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1f18b303711a34db5fd9125d5f100941a26b8c12\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2c6c3b448121e8a70c55f00862302516c699268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\fa02366fd029433c1a9e4b483541dc5117c30399\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12e359babc0ef970b181b3b866210c8dff787082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bef4ca09054a9a547745721c3f1a3c67c53a198">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b361f457efb3b70ece9e5e252b3e36d5c2eee128\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_eb5c4f19ae2e7be4e715c40cfc1f47546acef9c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_061286cc5e11091a90d4e79ef95b403e7ab8a692.jar" />
+    </item>
+    <item
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_3a8aa335aa91812b1e9a18a3e075e27006ed0a6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_5b5750c466e26c785727628d55d9ea0f89f01e8b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\kos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_61924b685a781ebddc3495208f5ee821366ff4ea\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\kos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_61924b685a781ebddc3495208f5ee821366ff4ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_30b2b9fa354f569143b21a9581ac3725d1ea1450.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\02d5087e2b12cb33ed5efb125310f7919ffcd75c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7643ed12007d080d90418b810cc57241b263f942\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\95cb3643124e82269fe62d6fc5d310a3ddf1991a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9bc3e553cdfdcc95040c2b51ea626ece45be0cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c5fb9bbafc1c5764109fd9a2daaa198c326ef083\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c201ae39f3427715a7db10f6f9ee80b3ee50a93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\121b7d47297147bd13555cb0f011fddf9ebd821f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c7dd8098ebfbb425b6e1f04df8e424d3ba85e38\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_6255657c8f981ab320bd3989544c5d042624f958.jar" />
+    </item>
+    <item
+        jar="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\kos\Documents\GitHub\K_PassWord\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_7c7c292a444b5463a850e2a8802bfc30ee817fc0.jar" />
+    </item>
+
+</items>
